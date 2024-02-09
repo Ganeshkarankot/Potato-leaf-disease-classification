@@ -1,2 +1,2 @@
 # Potato-leaf-disease-classification
-Machine learning and cnn 
+#Machinelearning and #cnn 
